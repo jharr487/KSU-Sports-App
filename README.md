@@ -1,6 +1,6 @@
 # KSU-Sports-App
-ISA 3020 - Robert A. Fowler
+IS 3020 - Jajuan Harris
 
-This app is built to view and download the results of Kennesaw State Football's 2019-20 Season, including playoffs.
+This app will be designed to provide the stats and results of Kennesaw State Men's Basketball 2018-2019 season. 
 
-How to install and use?
+This app will me a little similar to the football app bu instead be about basketball. 
